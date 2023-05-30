@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+/*Estilo global de css para todos os components*/
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #111111;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+
+}
+
+a{
+  text-decoration: none;
+
+}
